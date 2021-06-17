@@ -1,0 +1,21 @@
+{
+    "name": "staark/chat",
+    "description": "Chat with php, MySQL, jQuery",
+    "type": "project",
+    "require": {
+        "php": ">= 7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Staark\\Chat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Costin Ionut",
+            "email": "51002637+Staark94@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
